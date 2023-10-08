@@ -1,0 +1,27 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-image: url(network-connection-background-abstract-style_23-2148875738.avif);
+}
+table{
+    background-image: url(360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg);
+    margin: 150px;
+    border: 2px solid black;
+    padding: 30px 70px;
+    border-radius: 5px;
+}
+#user{
+    padding-right: 450px;
+}
+.username{
+    padding-top: 15px;
+    width: 450px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#pass{
+    padding-right: 420px;
+}
+#sub{
+    padding: 5px;
+}
